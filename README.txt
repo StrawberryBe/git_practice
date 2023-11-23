@@ -1,1 +1,1 @@
-Hello Git and Github
+Hello Git and Github - first Guthub repository as part of the Codecademy Training "Build a Website with HTML, CSS, and GitHub Pages Skill Path" (https://www.codecademy.com/enrolled/paths/learn-how-to-build-websites)
